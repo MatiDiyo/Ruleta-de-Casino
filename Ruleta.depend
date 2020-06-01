@@ -1,0 +1,417 @@
+# depslib dependency file v1.0
+1542114198 source:d:\ruleta final\arbolranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1541904606 d:\ruleta final\menu.h
+	"partidaLista.h"
+
+1542068764 d:\ruleta final\partidalista.h
+
+1541914240 d:\ruleta final\arbolranking.h
+
+1541645878 source:d:\ruleta final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542114472 source:d:\ruleta final\main.c
+	<stdio.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1542082208 source:d:\ruleta final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"arbolRanking.h"
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+	"ruleta.h"
+	"gotoxy.h"
+
+1542042270 d:\ruleta final\tablero.h
+
+1539959704 d:\ruleta final\ruleta.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1491399896 d:\ruleta final\gotoxy.h
+
+1542113636 source:d:\ruleta final\partidalista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+
+1542082290 source:d:\ruleta final\ruleta.c
+	"ruleta.h"
+	"tablero.h"
+
+1542113154 source:d:\ruleta final\tablero.c
+	<stdio.h>
+	"tablero.h"
+
+1542114198 source:e:\ruleta final\arbolranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1541904606 e:\ruleta final\menu.h
+	"partidaLista.h"
+
+1542117830 e:\ruleta final\partidalista.h
+
+1541914240 e:\ruleta final\arbolranking.h
+
+1541645878 source:e:\ruleta final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542114472 source:e:\ruleta final\main.c
+	<stdio.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1542082208 source:e:\ruleta final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"arbolRanking.h"
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+	"ruleta.h"
+	"gotoxy.h"
+
+1542042270 e:\ruleta final\tablero.h
+
+1539959704 e:\ruleta final\ruleta.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1491399896 e:\ruleta final\gotoxy.h
+
+1542113636 source:e:\ruleta final\partidalista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+
+1542082290 source:e:\ruleta final\ruleta.c
+	"ruleta.h"
+	"tablero.h"
+
+1542113154 source:e:\ruleta final\tablero.c
+	<stdio.h>
+	"tablero.h"
+
+1541645878 source:f:\ruleta final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542082208 source:f:\ruleta final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"arbolRanking.h"
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+	"ruleta.h"
+	"gotoxy.h"
+
+1541914240 f:\ruleta final\arbolranking.h
+
+1542117830 f:\ruleta final\partidalista.h
+
+1541904606 f:\ruleta final\menu.h
+	"partidaLista.h"
+
+1542042270 f:\ruleta final\tablero.h
+
+1539959704 f:\ruleta final\ruleta.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1491399896 f:\ruleta final\gotoxy.h
+
+1542082290 source:f:\ruleta final\ruleta.c
+	"ruleta.h"
+	"tablero.h"
+
+1542114198 source:f:\ruleta final\arbolranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1542114472 source:f:\ruleta final\main.c
+	<stdio.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1542113636 source:f:\ruleta final\partidalista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+
+1542113154 source:f:\ruleta final\tablero.c
+	<stdio.h>
+	"tablero.h"
+
+1541645878 source:g:\ruleta final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542114472 source:g:\ruleta final\main.c
+	<stdio.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1541904606 g:\ruleta final\menu.h
+	"partidaLista.h"
+
+1542117830 g:\ruleta final\partidalista.h
+
+1541914240 g:\ruleta final\arbolranking.h
+
+1542082208 source:g:\ruleta final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"arbolRanking.h"
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+	"ruleta.h"
+	"gotoxy.h"
+
+1542042270 g:\ruleta final\tablero.h
+
+1539959704 g:\ruleta final\ruleta.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1491399896 g:\ruleta final\gotoxy.h
+
+1542113636 source:g:\ruleta final\partidalista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+
+1542082290 source:g:\ruleta final\ruleta.c
+	"ruleta.h"
+	"tablero.h"
+
+1542113154 source:g:\ruleta final\tablero.c
+	<stdio.h>
+	"tablero.h"
+
+1546540192 source:g:\ruleta final\arbolranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1541645878 source:c:\users\administrador\desktop\herramientas\c\ruleta final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542114472 source:c:\users\administrador\desktop\herramientas\c\ruleta final\main.c
+	<stdio.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1541904606 c:\users\administrador\desktop\herramientas\c\ruleta final\menu.h
+	"partidaLista.h"
+
+1542117830 c:\users\administrador\desktop\herramientas\c\ruleta final\partidalista.h
+
+1541914240 c:\users\administrador\desktop\herramientas\c\ruleta final\arbolranking.h
+
+1542082208 source:c:\users\administrador\desktop\herramientas\c\ruleta final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"arbolRanking.h"
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+	"ruleta.h"
+	"gotoxy.h"
+
+1542042270 c:\users\administrador\desktop\herramientas\c\ruleta final\tablero.h
+
+1539959704 c:\users\administrador\desktop\herramientas\c\ruleta final\ruleta.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1491399896 c:\users\administrador\desktop\herramientas\c\ruleta final\gotoxy.h
+
+1542082290 source:c:\users\administrador\desktop\herramientas\c\ruleta final\ruleta.c
+	"ruleta.h"
+	"tablero.h"
+
+1542113154 source:c:\users\administrador\desktop\herramientas\c\ruleta final\tablero.c
+	<stdio.h>
+	"tablero.h"
+
+1546540192 source:c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\arbolranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1541904606 c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\menu.h
+	"partidaLista.h"
+
+1542117830 c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\partidalista.h
+
+1541914240 c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\arbolranking.h
+
+1541645878 source:c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542114472 source:c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\main.c
+	<stdio.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1542082208 source:c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"arbolRanking.h"
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+	"ruleta.h"
+	"gotoxy.h"
+
+1542042270 c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\tablero.h
+
+1539959704 c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\ruleta.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1491399896 c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\gotoxy.h
+
+1542082290 source:c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\ruleta.c
+	"ruleta.h"
+	"tablero.h"
+
+1542113154 source:c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\tablero.c
+	<stdio.h>
+	"tablero.h"
+
+1555629514 source:c:\users\administrador\desktop\herramientas\carpetas\programación\c\ruleta final\partidalista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+
+1546540192 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\arbolranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1541904606 c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\menu.h
+	"partidaLista.h"
+
+1542117830 c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\partidalista.h
+
+1541914240 c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\arbolranking.h
+
+1541645878 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1542114472 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\main.c
+	<stdio.h>
+	"menu.h"
+	"arbolRanking.h"
+
+1542082208 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"arbolRanking.h"
+	"partidaLista.h"
+	"menu.h"
+	"tablero.h"
+	"ruleta.h"
+	"gotoxy.h"
+
+1542042270 c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\tablero.h
+
+1539959704 c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\ruleta.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1491399896 c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\gotoxy.h
+
+1542082290 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\ruleta.c
+	"ruleta.h"
+	"tablero.h"
+
+1542113154 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\ruleta final\tablero.c
+	<stdio.h>
+	"tablero.h"
+

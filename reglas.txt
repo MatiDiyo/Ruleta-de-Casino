@@ -1,0 +1,23 @@
+La ruleta es un juego de azar jugado con una rueda que tiene 
+37 ranuras numeradas de 0 a 36. Las ranuras alrededor de 
+la carrera son alternativamente rojas y negras con excepcion 
+de la rueda numero 0, que es de color verde. Los jugadores pueden 
+hacer apuestas sobre un numero, un color o una serie de numeros.
+
+Esta ruleta contiene los siguientes tipos de apuesta:
+
+- Apuesta Simple: Apostar por un solo numero.
+- Apuesta por Docenas: Apostar por 12 numeros.
+- Apuesta Pasa: Apostar por los numeros que estan entre 1 y 18.
+- Apuesta Falta: Apostar por los numeros que estan entre 19 y 36.
+- Apuesta Rojo: Apostar exclusivamente al rojo.
+- Apuesta Negro: Apostar exclusivamente al negro.
+- Apuesta Par: Apostar exclusivamente a los pares (el cero no cuenta).
+- Apuesta Impar: Apostar exclusivamente a los impares.
+
+En cuanto a los premios:
+
+- Apuesta Simple: Gana 35 veces lo apostado.
+- Apuesta por Docenas: Gana 2 veces lo apostado.
+
+Las demas apuestas ganan lo equivalente a lo apostado. 

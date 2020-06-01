@@ -1,0 +1,8 @@
+Probabilidades:
+
+- Apuesta Simple: 2,7%
+- Apuesta por Docenas: 33,3%
+- Apuesta por Intervalos: 50%
+- Apuesta por Rojo: 55,5%
+- Apuesta por Negro: 44,4%
+- Apuesta por Par o Impar: 50%
